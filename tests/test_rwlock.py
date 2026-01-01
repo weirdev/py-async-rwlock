@@ -3,7 +3,7 @@ import asyncio
 
 import pytest
 
-from n_observer.n_observer import RwLock
+from async_rwlock import RwLock
 
 
 @pytest.mark.asyncio
