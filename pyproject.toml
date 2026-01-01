@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Read-write lock implementation that yeilds rather than blocks. RW version of asyncio.Lock."
 readme = "README.md"
 license = { file = "LICENSE" }
-requires-python = ">=3.4"
+requires-python = ">=3.5"
 keywords = ["asyncio", "lock", "rwlock", "read-write"]
 classifiers = [
   "Development Status :: 3 - Alpha",
@@ -16,7 +16,6 @@ classifiers = [
   "License :: OSI Approved :: MIT License",
   "Programming Language :: Python",
   "Programming Language :: Python :: 3",
-  "Programming Language :: Python :: 3.4",
   "Programming Language :: Python :: 3.5",
   "Programming Language :: Python :: 3.6",
   "Programming Language :: Python :: 3.7",
